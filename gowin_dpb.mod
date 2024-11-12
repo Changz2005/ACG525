@@ -1,0 +1,24 @@
+-series GW5A
+-device GW5A-25
+-device_version A
+-package UBGA324
+-part_number GW5A-LV25UG324C2/I1
+
+
+-mod_name Gowin_DPB
+-file_name gowin_dpb
+-path D:/Gowin/ACG525Project/ch62_audio_loopback/ch62_audio_loopback/src/gowin_dpb/
+-type RAM_DP
+-file_type vlg
+-bram_b true
+-dev_type GW5A-25A
+-depth_0 28000
+-depth_1 28000
+-width_0 32
+-width_1 32
+-read_mode_0 bypass
+-read_mode_1 bypass
+-write_mode_0 normal
+-write_mode_1 normal
+-speed true
+-reset_mode sync
